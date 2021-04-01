@@ -26,4 +26,7 @@ predict_em*:预测<br>
 3数据
 --------
 
-数据较大可以从   网盘获得
+数据可以从链接：
+https://pan.baidu.com/s/1vlnrjgjPd2j6jPBxoLslSg 
+提取码：50wt 
+网盘获得
