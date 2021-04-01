@@ -1,9 +1,9 @@
 叠前地震数据预测地层
 ======
-<br>
-<br>
+
 环境
 ------
+
 python3
 tensorflow2
 numpy
@@ -11,6 +11,7 @@ numpy
 <br>
 目录
 -----
+
 <br>
 <br>
 experiments1：单分界面向斜背斜时域预测<br>
@@ -28,6 +29,7 @@ predict_em*:预测<br>
 <br>
 数据
 --------
+
 <br>
 <br>
 数据较大可以从   网盘获得
