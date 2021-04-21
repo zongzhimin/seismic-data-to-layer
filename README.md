@@ -29,4 +29,5 @@ predict_em*:预测<br>
 数据可以从链接：
 https://pan.baidu.com/s/1vlnrjgjPd2j6jPBxoLslSg 
 提取码：50wt 
-网盘获得
+网盘获得<br>
+数据以numpy矩阵保存，已归一化，部分数据未切块，加载需要较大内存。
